@@ -1,0 +1,12 @@
+Fullname = input("Enter your full name: ")
+Age = input("Enter your Age: ")  
+Faculty = input("Enter your faculty name: ")
+Birthdate = input("Enter your BirthDate: ")
+Grad_Year = input("Enter your Graduation Year: ")
+
+print("\n") 
+print("Full name:", Fullname) 
+print("Age:", Age)
+print("Faculty:", Faculty)
+print("Birth date:", Birthdate)
+print("Graduation year:", Grad_Year)
